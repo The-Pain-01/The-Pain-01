@@ -102,14 +102,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*ＣＥ ＳＴＡＴＵＳ ＥＴＡＩＴ ＴＥＬＬＥＭＥＮＴ ＰＲＥＶＩＳＩＢＬＥ...  ＤＥＣＥＶＡＮＴ ＢＯＮ ＶＯＩＬＡ，ＫＹＯＴＡＫＡ Ｌ’Ａ ＲＥＣＵＰＥＲＥ*"
+      "value": "*THE PAIN VOUS FERA CONNAÎTRE LA VRAI SOUFFRANCE *"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KYOTAKA-MD"
+      "value": "THE PAIN-MD"
 
       }, 
     
