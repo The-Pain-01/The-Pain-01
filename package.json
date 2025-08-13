@@ -1,7 +1,7 @@
 {
   "name": "THE PAIN-MD",
   "version": "1.0.0",
-  "description": "KYOTAKA BOT développer comme du n'importe quoi 🎯",
+  "description": "THE PAIN BOT développer comme du n'importe quoi 🎯",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name KYOTAKA-MD",
