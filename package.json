@@ -4,7 +4,7 @@
   "description": "THE PAIN BOT développer comme du n'importe quoi 🎯",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KYOTAKA-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name THE PAIN-MD",
     "stop": "pm2 stop THE PAIN-MD",
     "restart": "pm2 restart THE PAIN-MD"
   },
